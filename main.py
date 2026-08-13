@@ -4,8 +4,8 @@
    Desenvolvedor: Rogério Gomes Figueiredo
    Versão: 1.0
    Contato: rogerio_bk@outlook.com
-   Telefone: (65) 9 8121-7628
-   Descrição: Sistema de gestão para laborátorios.
+   Telefone:
+   Descrição: Sistema de gestão para laboratórios.
 ========================================================
 """
 
